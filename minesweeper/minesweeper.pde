@@ -1,4 +1,5 @@
 // Minesweeper
+// Based on code by Daniel Shiffman of Coding Train
 
 import processing.sound.*;
 SoundFile lossNoise;
